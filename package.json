@@ -1,0 +1,13 @@
+{
+    "name": "advent-of-code",
+    "version": "1.0.0",
+    "description": "JS Solutions to Advent of Code puzzles",
+    "main": "index.js",
+    "repository": "git@github.com:cameronperera/advent-of-code.git",
+    "engines": {
+        "node": ">=16.14.2"
+    },
+    "author": "Cameron Perera",
+    "license": "MIT",
+    "private": false
+}
